@@ -1,0 +1,21 @@
+today i learned about the concept i.e node.js module
+
+
+#notes:
+*Node.js modules allow us to split our code into small, reusable components,
+*we can import module into another one by using require() ,
+*module makes the code more clan , organized and easy to maintain.
+
+* there are different types of modules 
+1) built in modules like fs, http etc.
+2) user defined module (created by user)
+3) external modules (created with 'init' command)
+
+
+
+
+
+
+
+
+
